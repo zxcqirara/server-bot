@@ -9,6 +9,7 @@
 The bot for my discord server is configured purely for the server.
 
 *P.S. Some commands are not made!*
+
 *P.P.S. Some inscriptions in Russian!*
 
 ## Variables
