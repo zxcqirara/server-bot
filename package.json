@@ -1,0 +1,25 @@
+{
+  "name": "server-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChA0S_f4me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.2.8",
+    "ms": "^2.1.2",
+    "opusscript": "^0.0.8",
+    "request": "^2.88.2",
+    "sqlite": "^4.0.21",
+    "sqlite3": "^5.0.2",
+    "ytdl-core": "^4.5.0",
+    "ytsr": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.5"
+  }
+}

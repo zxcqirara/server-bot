@@ -1,0 +1,22 @@
+{
+	"token": "",
+	"app_id": "",
+	"guild_id": "",
+	"logs_channel": "",
+	"logs_colors": {
+		"admin": "0xbc2d25",
+		"warn": "0xdf564e",
+		"info": "0x216eb2"
+	},
+	"mute_role": "",
+	"blacklist": [],
+	"newsWebhook": {
+		"id": "",
+		"token": ""
+	},
+	"admin_role": "",
+	"wh_channels": [
+		"",
+		""
+	]
+}
